@@ -1,0 +1,21 @@
+{
+    "name": "oua-color-theme",
+    "displayName": "OUA Color Theme",
+    "description": "A color theme that use Open University Australia's color palette.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OUA Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OUA Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
