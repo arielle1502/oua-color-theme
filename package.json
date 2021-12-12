@@ -3,9 +3,15 @@
     "displayName": "OUA Color Theme",
     "description": "A color theme that use Open University Australia's color palette.",
     "version": "0.0.1",
+    "publisher": "arielle1502",
+    "icon": "images/oua.png",
     "engines": {
         "vscode": "^1.62.0"
     },
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/arielle1502/oua-color-theme.git"
+      },
     "categories": [
         "Themes"
     ],
